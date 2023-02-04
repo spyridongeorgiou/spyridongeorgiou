@@ -1,0 +1,24 @@
+name: user-statistician
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+      
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Generate the user stats image
+      uses: cicirello/user-statistician@v1
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+   
