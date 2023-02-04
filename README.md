@@ -1,28 +1,32 @@
 
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
-## 
-## Hello and welcome to my about me page 👋<br>
 
-## <br>  **Some facts about me**<br>
+Hello 👋\
+&emsp;**My name is Spyridon, i'm 25 years old and i live in the south of Germany 🇩🇪 🥨**&emsp;&emsp;&nbsp;<br>
+&emsp;**I'm currently doing an apprenticeship as an IT-Clerk but im more active as an IT-Sysadmin and programmer 💾**&emsp;&emsp;&nbsp; <br>
+&emsp;**You'll find some more information about me below👨‍💻**&emsp;&emsp;&nbsp;\
 
-### &emsp;&emsp;&emsp;**My name is Spyridon, i'm 25 years old and i live in the south of Germany 🇩🇪 🥨**&emsp;&emsp;&nbsp;<br>
+**Stuff that interests me professionally**
+- Hardware (Both in the desktop and server realm) 💻
+    - [Here's an image of my current build](https://cdna.pcpartpicker.com/static/forever/images/userbuild/386186.7ee5c4d07b2d271511fb47a3e570ae81.1600.jpg), assembled by yours truly
+    - Packing an AMD Ryzen 3 3950x, 32GB of DDR4 RAM and a NVIDIA RTX 3080
+- Coding 👨‍💻
+    - Have a look at some of my repositories\
+- Current and upcoming Technologies ⚙
 
-### &emsp;&emsp;&emsp;**I'm currently doing an apprenticeship as an IT-Clerk but im more active as an IT-Sysadmin and programmer 💾**&emsp;&emsp;&nbsp; <br>
-
-### &emsp;&emsp;&emsp;**You'll find some more information about me below👨‍💻**&emsp;&emsp;&nbsp; <br>
-
-
-## <br> **Things i have work experience in**<br>
-
+**Things i have work experience in**
  - **Editors**
     - ⬆ Lots of --> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     - ➡ Some of --> ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
     - ↘ Little of --> ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 - **Programming Languages**
-    - ⬆ Lots of --> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+    - ⬆ Lots of --> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
     - ➡ Some of --> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+      - ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     - ↘ Little of ---> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+      - ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 - **Shell Scripting**
     - ➡ Some of --> ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
     - ➡ Some of --> ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -41,20 +45,15 @@
     - Raised on --> ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
     - Currently using --> ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
   - ➡ Some of --> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    - Fedora
-    - Debian
+    - ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+    - ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 - Cloud Experience
-  - ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  - ➡ Some of --> ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - Other
-  - IT-Systemsadministration, IPv4, IPv6, hardware, 
+  - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+  - IT-Sysadministration, IPv4, IPv6, Networking
              
-
-
-## <br><br>**Stuff that interests me**<br>
-- Hardware (Both in the desktop and server realm) 💻
-    - [Here's an image of my current build](https://cdna.pcpartpicker.com/static/forever/images/userbuild/386186.7ee5c4d07b2d271511fb47a3e570ae81.1600.jpg), assembled by yours truly
-- Coding 👨‍💻
-    - Have a look at some of my repositories
 
 ## <br>  **Things i enjoy doing outside of work**<br>
     
