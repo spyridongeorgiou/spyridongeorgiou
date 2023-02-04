@@ -2,20 +2,22 @@
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
 
 
-Hello 👋\
+# **Hello** 👋
 &emsp;**My name is Spyridon, i'm 25 years old and i live in the south of Germany 🇩🇪 🥨**&emsp;&emsp;&nbsp;<br>
 &emsp;**I'm currently doing an apprenticeship as an IT-Clerk but im more active as an IT-Sysadmin and programmer 💾**&emsp;&emsp;&nbsp; <br>
-&emsp;**You'll find some more information about me below👨‍💻**&emsp;&emsp;&nbsp;\
+&emsp;**You'll find some more information about me below 👤**&emsp;&emsp;&nbsp;
 
-**Stuff that interests me professionally**
-- Hardware (Both in the desktop and server realm) 💻
+### **Stuff that interests me professionally 💼**
+- Hardware (Both in the desktop and the server realm) 💻
     - [Here's an image of my current build](https://cdna.pcpartpicker.com/static/forever/images/userbuild/386186.7ee5c4d07b2d271511fb47a3e570ae81.1600.jpg), assembled by yours truly
-    - Packing an AMD Ryzen 3 3950x, 32GB of DDR4 RAM and a NVIDIA RTX 3080
-- Coding 👨‍💻
-    - Have a look at some of my repositories\
+    - Currently packing an AMD Ryzen 3 3950x, 32GB of DDR4 RAM and an NVIDIA RTX 3080
+- Coding & Programming 👨‍💻
+    - More info below
 - Current and upcoming Technologies ⚙
+- IT-System administration (Controlling, monitoring, etc.) 🛠
+- Consulting and customer support in IT 👨‍💼👥
 
-**Things i have work experience in**
+### **Things i have work experience in**
  - **Editors**
     - ⬆ Lots of --> ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     - ➡ Some of --> ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -50,15 +52,19 @@ Hello 👋\
 - Cloud Experience
   - ➡ Some of --> ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 - Other
-  - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)<br>![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)<br>![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-  - IT-Sysadministration, IPv4, IPv6, Networking
-             
+  - IT-Sysadministration ⚙🗜🧰
+  - Networking Theoretical and Practical (IPv4, IPv6, HTTP, etc.) 
+  - 1st/2nd/3rd Level Technical Support (3rd level support for internal Software) 🚦
+  - Assembling, installing and maintaining Computer/Serversystems 🛠
 
-## <br>  **Things i enjoy doing outside of work**<br>
+## **Things i enjoy doing outside of work**
     
 -  Cook 🍝
 -  Coding (for fun) 🤖
+    - Mostly in the languages listed above but i'm interested in learning more of
+    - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 -  Read 📖
     - Some of my favorite books:
         - Permanent Record by Edward Snowden 
@@ -70,27 +76,20 @@ Hello 👋\
 -  Excercise every now and then 🏋️‍♂️
 -  Enjoy the occasional videogame 👾
 
-## <br><br> **Languages i speak** <br>
+## **Non-programming Languages i speak**
 |LANGUAGE|LEVEL|
 |-|-|
 | English | Fluent (Professional) |
 | German | Fluent (Professional) |
 | Spanish | Fluent |
 |||
-
-
-<br><br>  
-
-# **Get in touch**
-
-<br>
+# **Contact me**
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:spyridon.g@outlook.com)
-&emsp;
 [![LinkedIn - Spyridon Georgiou](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyridon-georgiou-98287223a/)&emsp;
 
 <br>
 
-# **Some stats**
+## **Some stats**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=spyridongeorgiou&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=spyridongeorgiou&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
