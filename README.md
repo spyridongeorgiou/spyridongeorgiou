@@ -75,20 +75,20 @@
 -  Excercise every now and then 🏋️‍♂️
 -  Enjoy the occasional videogame 👾
 
-## **Non-programming Languages i speak**
+## **Non-programming Languages i speak 🗣🗯**
 |LANGUAGE|LEVEL|
 |-|-|
 | English | Fluent (Professional) |
 | German | Fluent (Professional) |
 | Spanish | Fluent |
 
-# **Contact me**
+# **Contact me 📧**
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:spyridon.g@outlook.com)
 [![LinkedIn - Spyridon Georgiou](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyridon-georgiou-98287223a/)&emsp;
 
 <br>
 
-## **Some stats**
+## **Some stats 🌌🏆**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=spyridongeorgiou&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=spyridongeorgiou&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
