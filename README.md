@@ -4,7 +4,7 @@
 
 # **Hello** 👋
 &emsp;**My name is Spyridon, i'm 25 years old and i live in the south of Germany 🇩🇪 🥨**&emsp;&emsp;&nbsp;<br>
-&emsp;**I'm currently doing an apprenticeship as an IT-Clerk but im more active as an IT-Sysadmin and programmer 💾**&emsp;&emsp;&nbsp; <br>
+&emsp;**I'm currently working as an IT-Sysadmin, but i enjoy some scripting/programming here and there 💾**&emsp;&emsp;&nbsp; <br>
 &emsp;**You'll find some more information about me below 👤**&emsp;&emsp;&nbsp;
 
 ### **Stuff that interests me professionally 💼**
