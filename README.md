@@ -86,7 +86,8 @@
 ### **Contact me 📧**
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:spyridon.g@outlook.com)
 [![LinkedIn - Spyridon Georgiou](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyridon-georgiou-98287223a/)&emsp;
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>&emsp;
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="spyridon-georgiou-98287223a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/spyridon-georgiou-98287223a?trk=profile-badge">Spyridon Georgiou</a></div>
               
 
