@@ -7,7 +7,7 @@
 &emsp;**I'm currently working as an IT-Sysadmin, but i enjoy some scripting/programming here and there 💾**&emsp;&emsp;&nbsp; <br>
 &emsp;**You'll find some more information about me below 👤**&emsp;&emsp;&nbsp;
 
-### **Stuff that interests me professionally 💼**
+## **Stuff that interests me professionally 💼**
 - Hardware (Both in the desktop and the server realm) 💻
     - [Here's an image of my current build](https://cdna.pcpartpicker.com/static/forever/images/userbuild/386186.7ee5c4d07b2d271511fb47a3e570ae81.1600.jpg), assembled by yours truly
     - Currently packing an AMD Ryzen 3 3950x, 32GB of DDR4 RAM and an NVIDIA RTX 3080
@@ -17,7 +17,7 @@
 - IT-System administration (Controlling, monitoring, etc.) 🛠
 - Consulting and customer support in IT 👨‍💼👥
 
-### **Things i have work experience in** 💾
+## **Things i have work experience in** 💾
 - **Programming Languages**
     - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
     - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,7 +42,7 @@
   - 1st/2nd/3rd Level Technical Support (3rd level support for internal Software) 🚦
   - Assembling, installing and maintaining Computer/Serversystems 🛠
 
-### **Things i enjoy doing outside of work** 🎨
+## **Things i enjoy doing outside of work** 🎨
     
 -  Cooking 🍝
 -  Coding (for fun) 🤖
@@ -55,23 +55,23 @@
         - The great Gatsby by F. Scott Fitzgerald
 -  Listen to podcasts 🗣🎙
     - Usually Lex Fridman or LTT's WAN Show
--  Excercise every now and then 🏋️‍♂️
+-  Lifting heavy objects 🏋️‍♂️
 -  Enjoy the occasional videogame 👾
 
-### **Non-programming Languages i speak 🗣🗯**
+## **Non-programming Languages i speak 🗣🗯**
 |LANGUAGE|LEVEL|
 |-|-|
 | English | Fluent (Professional) |
 | German | Fluent (Professional) |
 | Spanish | Fluent |
 
-### **Contact me 📧**
+## **Contact me 📧**
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:spyridon.g@outlook.com)
 [![LinkedIn - Spyridon Georgiou](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyridon-georgiou-98287223a/)&emsp;
 
 <br>
 
-### **Some stats 🌌🏆**
+## **Some stats 🌌🏆**
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=spyridongeorgiou&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=spyridongeorgiou&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
