@@ -54,7 +54,7 @@
         - Metro 2033 by Dmitri Alexejewitsch Gluchowski
         - The great Gatsby by F. Scott Fitzgerald
 -  Listen to podcasts 🗣🎙
-    - Usually Lex Fridman or LTT's WAN Show
+    - Usually Lex Fridman, Andrew Huberman or LTT's WAN Show
 -  Lifting heavy objects 🏋️‍♂️
 -  Enjoy the occasional videogame 👾
 
