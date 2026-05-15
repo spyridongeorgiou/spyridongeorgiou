@@ -2,59 +2,97 @@
 <!-- -->
 
 
-# **Hello** 👋
-&emsp;**My name is Spyridon, i'm 28 years old and i live in the south of Germany 🇩🇪 🥨**&emsp;&emsp;&nbsp;<br>
-&emsp;**I'm currently working as a DevOps Engineer 💾**&emsp;&emsp;&nbsp; <br>
-&emsp;**You'll find some more information about me below 👤**&emsp;&emsp;&nbsp;
+# spyridon/introduction.yaml
 
-## **Stuff that interests me professionally 💼**
-- Hardware (Both in the desktop and the server realm) 💻
-    - [Here's an image of my current build](https://cdna.pcpartpicker.com/static/forever/images/userbuild/386186.7ee5c4d07b2d271511fb47a3e570ae81.1600.jpg), assembled by yours truly
-    - Currently packing an AMD Ryzen 3 3950x, 96GB of DDR4 RAM and an NVIDIA RTX 3080
-- Coding/Programming👨‍💻
-    - More info below
+```yaml
+apiVersion: human.io/v1alpha1
+kind: human
+metadata:
+  name: spyridon
+  location: germany
+  labels:
+    role: devops-engineer
+    platform: linux-windows-hybrid #change to linux only down the line
+    coffee: required #dangerous dependency
 
-## **Things i have work experience in** 💾
-- **Programming Languages**
-    - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- **Shell Scripting**
-    - ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- **Databases**
-    - ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Virtualization**
-    - ![Microsoft](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/VMWare-217346?style=for-the-badge&&logoColor=white)
-- **Cloud**
-    - ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- **Operating Systems**
-  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
- - **Editors**
-    - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-- Other
-  - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+spec:
+  age: 28 # new version pending
 
-## **Things i enjoy doing outside of work** 🎨
-    
--  Cooking 🍝
--  Coding (for fun) 🤖
--  Reading 📖
-    - Some of my favorite books:
-        - Permanent Record by Edward Snowden 
-        - Metro 2033 by Dmitri Alexejewitsch Gluchowski
-        - The great Gatsby by F. Scott Fitzgerald
--  Listen to podcasts 🗣🎙
-    - Usually Lex Fridman, Andrew Huberman or LTT's WAN Show
--  Lifting heavy objects 🏋️‍♂️
--  Enjoy the occasional videogame 👾
+  personality:
+    traits:
+      - curious
+      - stubborn  
+      - lifts-heavy-things 
+      - probably-debugging-right-now
 
-## **Non-programming Languages i speak 🗣🗯**
-|LANGUAGE|LEVEL|
-|-|-|
-| English | Fluent (Professional) |
-| German | Fluent (Professional) |
-| Spanish | Fluent |
+  knowledge:
+    fields:
+      - systems engineering
+      - platform engineering
+      - distributed systems
+      - cloud infra
+      - automation
+      - ci/cd
+      - desired state
+      - cost saving
+      - security
 
-## **Contact me 📧**
-[![LinkedIn - Spyridon Georgiou](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyridon-georgiou-98287223a/)&emsp;
+  workExperience:
+    programmingLanguages:
+      - Python 
+      - Go
+
+    tooling:
+      - Kubernetes
+      - Docker 
+      - Terraform
+      - Ansible
+      - GitHub 
+      - Azure DevOps
+
+    cloud:
+      - Azure
+      - GCP
+      - Private Cloud
+
+    operatingSystems:
+      - Linux 
+      - Windows 
+
+    shell:
+      - Bash
+      - PowerShell 
+
+  hobbies:
+    - cooking
+    - coding-for-fun
+    - reading
+    - powerlifting 
+    - videogames 
+
+  favoriteBooks:
+    - "Permanent Record - Edward Snowden"
+    - "Metro 2033 - Dmitri Glukhovsky"
+    - "The Great Gatsby - F. Scott Fitzgerald"
+
+  podcasts:
+    - Lex Fridman
+    - Andrew Huberman
+    - WAN Show
+
+  languages:
+    english: fluent
+    german: fluent
+    spanish: fluent
+
+  availability: 
+    replicas: 1
+
+  contact:
+    linkedin: https://www.linkedin.com/in/spyridon-georgiou-devops
+
+---
+# deployment notes:
+# work in progress
+```
 
