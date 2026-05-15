@@ -4,7 +4,7 @@
 
 # **Hello** 👋
 &emsp;**My name is Spyridon, i'm 28 years old and i live in the south of Germany 🇩🇪 🥨**&emsp;&emsp;&nbsp;<br>
-&emsp;**I'm currently working as a (Junior) DevOps Engineer 💾**&emsp;&emsp;&nbsp; <br>
+&emsp;**I'm currently working as a DevOps Engineer 💾**&emsp;&emsp;&nbsp; <br>
 &emsp;**You'll find some more information about me below 👤**&emsp;&emsp;&nbsp;
 
 ## **Stuff that interests me professionally 💼**
